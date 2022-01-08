@@ -44395,7 +44395,7 @@ return P.E($async$zR,r)},
 I5:function(a,b){var s,r,q=this,p={}
 q.r=H.a([],t.W)
 q.e=a
-q.x=A.aLw("wss://cinema-res.herokuapp.com/")
+q.x=A.aLw("ws://cinema-res.herokuapp.com/")
 q.f=P.CJ(P.bv(0,0,0,30),new R.a81(q))
 s=q.x.r
 r=t.X
