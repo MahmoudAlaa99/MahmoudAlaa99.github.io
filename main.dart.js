@@ -45040,7 +45040,7 @@ r.xl().b0(0,new K.amh(s),t.P)
 s.ao()},
 C:function(a,b){var s,r,q,p,o,n,m,l,k,j,i=this,h=null
 i.f=Y.b9(b,!0,t._)
-s=X.aLE(C.cf,new L.mG("images/landing.jpg",h,h),h)
+s=X.aLE(C.cf,new L.mG("assets/images/landing.jpg",h,h),h)
 r=T.aM(h,50,h)
 q=T.ce(L.a8("BOOK YOUR FILM NOW!",h,h,h,A.ay(h,h,C.k,h,h,h,h,h,h,h,h,30,h,C.aF,h,h,!0,h,h,h,h,h,h,h),h,h,h),h,h)
 p=T.ce(L.a8("Cinema in your pocket",h,h,h,A.ay(h,h,C.k,h,h,h,h,h,h,h,h,22,h,h,h,h,!0,h,h,h,h,h,h,h),h,h,h),h,h)
@@ -46065,7 +46065,7 @@ r=s.c
 r.toString
 s.f=Y.b9(r,!1,t._)
 s.ao()},
-C:function(a,b){var s,r,q,p,o,n=this,m=null,l=b.N(t.w).f.a,k=F.mK(C.y,1),j=K.a_w(new P.bw(10,10)),i=n.a.c,h=M.M(m,B.aA6(new D.jZ(i.d,1),new L.mG("images/placeholder.jpg",m,m)),C.f,m,m,m,m,100,m,m,m,m,100)
+C:function(a,b){var s,r,q,p,o,n=this,m=null,l=b.N(t.w).f.a,k=F.mK(C.y,1),j=K.a_w(new P.bw(10,10)),i=n.a.c,h=M.M(m,B.aA6(new D.jZ(i.d,1),new L.mG("assets/images/placeholder.jpg",m,m)),C.f,m,m,m,m,100,m,m,m,m,100)
 i=M.M(m,L.a8(i.b,m,m,m,A.ay(m,m,m,m,m,m,m,m,m,m,m,m,m,C.aF,m,m,!0,m,m,m,m,m,m,m),m,m,m),C.f,m,m,m,m,m,new V.Y(10,0,0,5),m,m,m,m)
 s=M.M(m,L.a8("Date: "+C.e.j(H.aQ(P.ct(n.a.c.e)))+"-"+C.e.j(H.aP(P.ct(n.a.c.e)))+"-"+C.e.j(H.co(P.ct(n.a.c.e))),m,m,m,m,m,m,m),C.f,m,m,m,m,m,new V.Y(10,0,0,5),m,m,m,m)
 r=M.M(m,L.a8("From: "+C.c.bA(C.e.j(H.eg(P.ct(n.a.c.e))),2,"0")+":"+C.c.bA(C.e.j(H.hn(P.ct(n.a.c.e))),2,"0")+" To: "+C.c.bA(C.e.j(H.eg(P.ct(n.a.c.f))),2,"0")+":"+C.c.bA(C.e.j(H.hn(P.ct(n.a.c.f))),2,"0"),m,m,m,m,m,m,m),C.f,m,m,m,m,m,new V.Y(10,0,0,5),m,m,m,m)
@@ -46561,7 +46561,7 @@ r=s.c
 r.toString
 s.e=Y.b9(r,!1,t._)
 s.ao()},
-C:function(a,b){var s,r,q,p,o,n=this,m=null,l=F.mK(C.y,1),k=K.a_w(new P.bw(10,10)),j=n.a.c,i=M.M(m,B.aA6(new D.jZ(j.d,1),new L.mG("images/placeholder.jpg",m,m)),C.f,m,m,m,m,100,m,m,m,m,100)
+C:function(a,b){var s,r,q,p,o,n=this,m=null,l=F.mK(C.y,1),k=K.a_w(new P.bw(10,10)),j=n.a.c,i=M.M(m,B.aA6(new D.jZ(j.d,1),new L.mG("assets/images/placeholder.jpg",m,m)),C.f,m,m,m,m,100,m,m,m,m,100)
 j=M.M(m,L.a8(j.b,m,m,m,A.ay(m,m,m,m,m,m,m,m,m,m,m,m,m,C.aF,m,m,!0,m,m,m,m,m,m,m),m,m,m),C.f,m,m,m,m,m,new V.Y(10,0,0,5),m,m,m,m)
 s=M.M(m,L.a8("Date: "+C.e.j(H.aQ(P.ct(n.a.c.e)))+"-"+C.e.j(H.aP(P.ct(n.a.c.e)))+"-"+C.e.j(H.co(P.ct(n.a.c.e))),m,m,m,m,m,m,m),C.f,m,m,m,m,m,new V.Y(10,0,0,5),m,m,m,m)
 r=M.M(m,L.a8("From: "+C.c.bA(C.e.j(H.eg(P.ct(n.a.c.e))),2,"0")+":"+C.c.bA(C.e.j(H.hn(P.ct(n.a.c.e))),2,"0")+" To: "+C.c.bA(C.e.j(H.eg(P.ct(n.a.c.f))),2,"0")+":"+C.c.bA(C.e.j(H.hn(P.ct(n.a.c.f))),2,"0"),m,m,m,m,m,m,m),C.f,m,m,m,m,m,new V.Y(10,0,0,5),m,m,m,m)
